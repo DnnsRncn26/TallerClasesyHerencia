@@ -55,6 +55,6 @@ for (let buses of flota) {                    //el for ... of es tener una lista
 
 
 //punto1.js: clase, constructor, métodos.
-//punto2.js: herencia, extends, sobreescribir un metodo
-//punto3.js: super dentro de un método, reutilizar sin repetir
-//punto4.js: polimorfismo con un arreglo de objetos
+//punto2.js: herencia, extends, sobreescribir un metodo.
+//punto3.js: super dentro de un método, reutilizar sin repetir.
+//punto4.js: polimorfismo con un arreglo de objetos.
